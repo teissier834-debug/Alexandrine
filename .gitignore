@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.sites-runtime/
+.DS_Store
+*.tsbuildinfo
+tmp/
+.netlify/
+.env
+.env.*
